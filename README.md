@@ -1,4 +1,4 @@
-basebundl
+Bundl Template
 =========
 
-Bundl Template
+Template for new bundles
